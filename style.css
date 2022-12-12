@@ -16,6 +16,7 @@ h1 {
 }
 
 #wrapper{
+  width: 1200px;
   display:flex;
   justify-content: center;
   gap: 60px;
@@ -54,6 +55,9 @@ h1 {
 }
 
 .number{
+  position: absolute;
+  left: -20px;
+  top: -20px;
   display: flex;
   justify-content: center;
   align-items: center;
